@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <header>
+    <h1>
+      <img src="c:\Users\user\Downloads\logo.jpg" alt="3ce">
+    </h1>
+    <nav>
+      <ul>
+        <li>
+          <a href="#">메뉴1</a></li>
+          <a href="#">메뉴2</a></li>
+          <a href="#">메뉴3</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <h2>SERVICES</h2>
+    <aside>
+      <p>페이지 추가 내용1</p>
+    </aside>
+    <article>
+      <h3>3ce의 역사</h3>
+    </article>
+    <aside>
+      <p>페이지 추가 내용3</p>
+    </aside>
+  </section>
+  <footer>
+    <p>회사 주소: 서울 마포구 서교동 368-22 서문빌딩 2,3,4,6층</p>
+    <p>연락처:010-1234-5678</p>
+    <p>이메일: 3ce@xxx.com</p>
+    <p>저작권: 3ce 회사 소유</p>
+  </footer>
+  <h1>type 선택자</h1>
+  <h2 style="background-color: palevioletred;">회사소개</h2>
+  <h3 class="font-style: italic;">회사가 하는 일</h3>
+
+  <h4 style="background-color: mediumseagreen;">welcom</h1>
+  <h4 style="background-color: powderblue;">thank you</h4></h1>
+<h1 
+  font-style: italic;>
+</h1>
+</body>
+</html>
